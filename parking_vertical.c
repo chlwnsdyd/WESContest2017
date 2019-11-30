@@ -15,7 +15,7 @@ void Parking_start(void) {
 			printf("right_front = %d\n", right_front);
 			status = 1;
 
-		}
+		} 
 		break;
 
 	case 1:
