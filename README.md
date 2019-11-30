@@ -29,4 +29,4 @@
 9. 도착점 정지<br>
 바닥 라인센서를 이용한 도착점 인식<br><br>
 
-<img width="600" src="https://user-images.githubusercontent.com/38127338/69896969-a6044880-1388-11ea-8394-3bd5aed35e27.png">
+<img width="1000" src="https://user-images.githubusercontent.com/38127338/69896969-a6044880-1388-11ea-8394-3bd5aed35e27.png">
